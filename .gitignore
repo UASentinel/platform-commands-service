@@ -1,5 +1,9 @@
+.vs
+
 /PlatformService/obj
 /PlatformService/bin
+/PlatformService/.vs
 
 /CommandService/obj
 /CommandService/bin
+/CommandService/.vs
